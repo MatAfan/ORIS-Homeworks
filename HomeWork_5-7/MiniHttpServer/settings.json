@@ -1,0 +1,12 @@
+{
+  "StaticDirectoryPath": ".\\Static\\Login Form\\login.html",
+  "Domain": "127.0.0.1",
+  "Port": "8888",
+  "SenderEmail": "dawidov.andrej2011@yandex.ru",
+  "SenderName": "Andryoushka",
+  "SenderPassword": "ypauztvyfwvywmrt",
+  "SMPTserver": "smtp.yandex.ru",
+  "SMTPport": 587,
+  "ConnectionString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=TestDB;Integrated Security=True"
+
+}
