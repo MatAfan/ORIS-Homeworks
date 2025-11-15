@@ -1,0 +1,7 @@
+﻿services:
+  serverapi:
+    image: serverapi
+    build:
+      context: .
+      dockerfile: ServerAPI/Dockerfile
+

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jknkMtBNxds=",
+  "success": true,
+  "projectFilePath": "C:\\CSharpProjects\\ORISHomeworks\\HappyDay\\MigrationLibrary\\ServerAPI\\ServerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matve\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-rc.1.25451.107\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-rc.1.25451.107\\microsoft.extensions.logging.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\npgsql\\10.0.0-rc.1\\npgsql.10.0.0-rc.1.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-rc.1.25451.107\\system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
