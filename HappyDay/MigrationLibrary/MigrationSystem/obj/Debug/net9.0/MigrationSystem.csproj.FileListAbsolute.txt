@@ -1,0 +1,12 @@
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.csproj.AssemblyReference.cache
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.AssemblyInfoInputs.cache
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.AssemblyInfo.cs
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\bin\Debug\net9.0\MigrationSystem.deps.json
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\bin\Debug\net9.0\MigrationSystem.dll
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\bin\Debug\net9.0\MigrationSystem.pdb
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.dll
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\refint\MigrationSystem.dll
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\MigrationSystem.pdb
+C:\CSharpProjects\ORISHomeworks\HappyDay\MigrationLibrary\MigrationSystem\obj\Debug\net9.0\ref\MigrationSystem.dll
